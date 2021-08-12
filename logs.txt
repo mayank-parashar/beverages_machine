@@ -1,0 +1,51 @@
+==========end==========
+start running test using MultiThread
+hot_coffee is prepared
+hot_tea is prepared
+black_tea cannot be prepared because black_tea is not available
+green_tea cannot be prepared because green_tea is not available
+hot_tea cannot be prepared because hot_tea is not available
+black_tea cannot be prepared because black_tea is not available
+hot_coffee cannot be prepared because hot_coffee is not available
+green_tea cannot be prepared because green_tea is not available
+==========end==========
+start running test using MultiThread
+black_tea cannot be prepared because black_tea is not available
+hot_tea is prepared
+hot_coffee is prepared
+green_tea cannot be prepared because green_tea is not available
+black_tea cannot be prepared because black_tea is not available
+hot_coffee cannot be prepared because hot_coffee is not available
+hot_tea cannot be prepared because hot_tea is not available
+green_tea cannot be prepared because green_tea is not available
+==========end==========
+start running test using MultiThread
+hot_coffee is prepared
+hot_tea is prepared
+black_tea cannot be prepared because black_tea is not available
+green_tea cannot be prepared because green_tea is not available
+black_tea cannot be prepared because black_tea is not available
+hot_coffee cannot be prepared because hot_coffee is not available
+hot_tea cannot be prepared because hot_tea is not available
+green_tea cannot be prepared because green_tea is not available
+==========end==========
+start running test using MultiThread
+hot_tea cannot be prepared because hot_tea is not available
+hot_coffee is prepared
+black_tea cannot be prepared because black_tea is not available
+green_tea cannot be prepared because green_tea is not available
+hot_coffee cannot be prepared because hot_coffee is not available
+hot_tea cannot be prepared because hot_tea is not available
+black_tea cannot be prepared because black_tea is not available
+green_tea cannot be prepared because green_tea is not available
+==========end==========
+start running test using MultiThread
+black_tea cannot be prepared because black_tea is not available
+hot_tea is prepared
+hot_coffee is prepared
+green_tea cannot be prepared because green_tea is not available
+hot_tea cannot be prepared because hot_tea is not available
+black_tea cannot be prepared because black_tea is not available
+hot_coffee cannot be prepared because hot_coffee is not available
+green_tea cannot be prepared because green_tea is not available
+==========end==========
